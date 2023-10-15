@@ -1,7 +1,11 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
 .App {
   text-align: center;
 }
-
+.cursive-font {
+  font-family: 'fantasy'; 
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
